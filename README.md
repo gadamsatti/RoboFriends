@@ -6,7 +6,7 @@ Robo Friends is a web application designed to help users search for and discover
 
 To run the Robo Friends web application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/robo-friends.git`
+1. Clone the repository: `git clone https://github.com/gadamsatti/robo-friends.git`
 2. Navigate to the project directory: `cd robo-friends`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
@@ -46,7 +46,7 @@ The following scripts are available in the Robo Friends project:
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the [GitHub repository](https://github.com/your-username/robo-friends).
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the [GitHub repository](https://github.com/gadamsatti/robo-friends).
 
 If you'd like to contribute code to the project, follow these steps:
 
